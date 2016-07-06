@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="index.xsl"?>
+
+<cv> 
+	<systeme>
+	<etatcivil>
+			<photo></photo>
+			<nom >  RASHO</nom>
+			<prenom> Abdul Rahman</prenom>
+			<age> 42ans </age>
+			<adresse> 3, rue Pierre-Henri TEITGEN  
+			</adresse>
+      <code_postal>35000 Rennes</code_postal>
+			<portable> : 0652821872 </portable>
+			<mail> : rasho80@hotmail.com</mail>
+			
+		</etatcivil>
+
+	<phrasecle>Actuellement en formation développeur web/mobile, au sien de Face Rennes Simplon. Je travaille les langues suivant: HTML5, CSS3, PHP, Java Script, Mysql. J'en visage travailler en tant que développeur web dans le bassin rennais. 
+ Auparavant j'étais dans l'enseignement supérieure à l'étranger, titulaire diplôme nationale docteur en psychologie, trilingue, diplôme ICDL, Maîtrisé logiciels de statistique genre SPSS,  autonome, esprit d'équipe, bon relation..</phrasecle>
+
+		
+     	<formations> 	
+  			<titre> Formation développeur Web/Mobile (8mois): </titre>
+  			<date> 17/05/2016-17/01/2017</date>
+  			<lieu> Grande école du numérique/ Face Rennes/ </lieu>
+      </formations>
+
+        <formations> 
+     			<titre> Doctorat en Psychologie:</titre>
+          <date> 18/12/2009</date>
+          <lieu>Université Rennes2</lieu>
+        </formations>
+              <formations> 
+          			<titre> Master2recherche Psychopathologie et Champs Cliniques:</titre>
+            		<date> 15/09/2005</date>
+          			<lieu>Université Rennes2</lieu>
+              </formations>
+
+        			<formations> 
+        				<titre> DES en Psychologie d'Information:</titre>
+         				<date> 18/12/2009</date>
+           			<lieu>Université de Damas</lieu>
+              </formations>
+
+         			<formations> 	
+         					<titre> Licence en Psychologie:</titre>
+          				<date> 1995</date>
+          				<lieu>Université de Damas</lieu>
+                </formations>
+
+         				<formations> 	
+         						<titre> Baccalauréat Général:</titre>
+          					<date> 1995</date>
+        						<lieu>Haska (Syrie)</lieu>
+      					</formations>
+
+        		<xp>
+        			<titre>Maître de conférence:</titre>
+              <date>du 09/2012 au 04/2014</date>
+              <lieu> Université de Zakho</lieu> 
+            </xp>
+		       	<xp>
+              <titre>Maître de conférence:</titre>
+        			<date> du 09/2010 au 08/2012</date>
+       				<lieu> Université de Damas</lieu>
+            </xp>
+            			
+            <xp>
+                <titre>Assistant maître de conférence:</titre>
+         				<date>du 09/2000 au 08/2002</date>
+       					<lieu>Université de Damas</lieu>
+     		     </xp>
+
+		
+      		<competences> 
+      			<definition> Gestion du projet  de cahier  des charges à la mise en production; </definition>
+          </competences> 
+
+          <competences> 				
+      			<definition>Appréhender les besoins clients;</definition>
+          </competences> 
+            
+          <competences>    				
+            <definition>Déterminer les objectifs;</definition> 
+          </competences> 
+
+          <competences>           
+            <definition>Traiter et analyser des données par logiciels statistiques ; </definition>
+          </competences> 
+
+          <competences>           
+            <definition>Encadrer, animer des cours, conférences, formations et diriger des recherches</definition>              
+          </competences>
+
+           <competences>           
+            <definition>Mes atouts : Polyvalent, bon relationnel, bonne capacité d’analyse et de synthèse</definition>
+          </competences> 
+
+        
+		
+    	   <langue>
+
+          </langue>
+
+
+     	<loisirs>
+     		
+     		<blabla> Natation , Voyage, Echec, Mosaïque</blabla>
+
+     	</loisirs>
+     		
+
+	</systeme>
+</cv>
