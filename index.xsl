@@ -8,14 +8,15 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <head>
 	<title>cv Abdul </title>
 	<meta charset="utf-8"/>
-	  	<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
 	 	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>
 	 	<link rel="stylesheet" type="text/css" href="style.css"/>
 	 	<link rel="stylesheet" type="text/css" href="font-awesome-4.6.3/css/font-awesome.css"/>
 </head>
 	<body>
 		<div class= "container-fluid">
-	<!-- Etat civil -->	
+	<!-- Etat civil -->
+	<div class="row">	
 		<div class="col-md-5 col-ms-12 col-xs-12">
 			<div class="photo"></div><br></br>
 				<h2>Abdul Rahman RASHO</h2><hr></hr>
@@ -61,7 +62,6 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 			</div>
 		</div>
 
-
 		<div class="col-md-7 col-ms-12 col-xs-12">
 
 	<!--  Formations -->
@@ -105,8 +105,8 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 		
 		</div>
 	</div>
-
-	</body>
+</div>
+</body>
 </html>
 </xsl:template>
 </xsl:stylesheet>
