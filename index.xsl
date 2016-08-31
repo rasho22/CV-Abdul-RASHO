@@ -6,7 +6,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:template match="/">
 <html>
 <head>
-	<title>cv Abdul </title>
+	<title>CV Abdul Rahman RASHO </title>
 	<meta charset="utf-8"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
 	 	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>
@@ -85,8 +85,8 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 			<xsl:for-each select="cv/systeme/xp">
 				<ul>
 					<li>
-						<xsl:value-of select="titre"/>
 						<xsl:value-of select="date"/>
+						<xsl:value-of select="titre"/>
 						<xsl:value-of select="lieu"/>
 					</li>
 				</ul>
