@@ -42,6 +42,21 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 				<div class="phrasecle">
 					<xsl:value-of select="cv/systeme/phrasecle"/>
 				</div><hr></hr>
+            
+    <!--  langages techniques         -->
+            <div class="langue">
+                	<h3>langages techniques</h3>
+			    <ul> 
+          			<li> HTML5</li>
+          			<li> CSS3 </li>
+                    <li>XML</li>
+          			<li>Javascript </li>
+                    <li> framework: Jquery </li>
+                    <li>PHP</li>
+                    <li>Mysql</li>
+                    <li>framework:Laravel</li>
+                 </ul>
+        	</div>
 
 	<!--Langue -->
 

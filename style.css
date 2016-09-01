@@ -67,6 +67,11 @@ hr{
 	text-align: justify;
 }
 
+/*  langages techniques*/
+.back{
+    float: right;
+}
+
 /*  Formations*/
 
 .col-md-7{
